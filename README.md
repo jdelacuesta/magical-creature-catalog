@@ -12,6 +12,9 @@ This assignment is a Swift Playground file that implements a Magical Creature Ca
 **Features**
 
 ✅ Struct-Based Creature Definitions – Unicorns, Dragons, and Phoenixes all with unique properties.
+
 ✅ Fibonacci Ability Calculation – A creature’s ability is tied to its magic power.
+
 ✅ Interaction Mechanism – Determines how creatures interact based on their inner nature.
+
 ✅ Readable Output – A function prints details about each creature and their interactions.
